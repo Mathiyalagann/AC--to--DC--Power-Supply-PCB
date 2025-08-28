@@ -20,16 +20,18 @@ The circuit steps down AC voltage through a transformer, rectifies it with a dio
     
 📸 Project Images
 
+
  PCB Layout
 
-![PCB Layout](LAYOUT/Layout top layer.jpg)
+![Layout top layer](<LAYOUT/Layout top layer.jpg>)
 
-![PCB Layout](LAYOUT/Layout bottom layer.jpg)
+![alt text](<LAYOUT/layout bottom layer .jpg>)
 
- Assembled PCB
+ PCB 3D Model
 
-![Assembled PCB](3D MODEL/3D AC to DC power supply.jpg)
+ ![alt text](<3D MODEL/3D AC to DC power supply.jpg>)
 
 
-## 📄 License
+
+ 📄 License
 This project is shared for learning purposes.
