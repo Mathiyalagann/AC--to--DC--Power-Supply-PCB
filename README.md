@@ -1,6 +1,6 @@
-PCB Design Project – AC to DC Power Supply
+***PCB Design Project – AC to DC Power Supply***
 
-📌 Overview
+**📌 Overview**
 
 This project is a " PCB design for an AC to DC Power Supply " using EasyEDA.  
 
